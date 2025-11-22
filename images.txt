@@ -7,5 +7,5 @@
 # xhofe/alist:latest
 # dbeaver/cloudbeaver:25.1.4
 # emqx/emqx-enterprise:5.9.1-elixir
-jc21/nginx-proxy-manager:2.12.3
+rustfs/rustfs:1.0.0-alpha.69
 
