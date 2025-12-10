@@ -10,5 +10,6 @@
 # rustfs/rustfs:1.0.0-alpha.69
 # node:20.19.6
 # tdengine/tsdb:3.3.8.8
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+# minio/minio:RELEASE.2025-04-22T22-12-26Z
+quay.io/influxdb/influxdb3-core:3.7.0
 
