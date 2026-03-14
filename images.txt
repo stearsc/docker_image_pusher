@@ -13,5 +13,6 @@
 # minio/minio:RELEASE.2025-04-22T22-12-26Z
 # influxdb:3.7.0-core
 # influxdata/influxdb3-ui:1.5.1
-guacamole/guacd:1.6.0-RC3
+# guacamole/guacd:1.6.0-RC3
+guacamole/guacamole:1.6.0-RC3
 
