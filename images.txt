@@ -17,4 +17,5 @@
 # guacamole/guacamole:1.6.0-RC3
 # portainer/portainer-ce:2.39.1-alpine
 # uusec/openresty-manager:2.4.2
-apache/kafka:3.9.2
+# apache/kafka:3.9.2
+provectuslabs/kafka-ui
