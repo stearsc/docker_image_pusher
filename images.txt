@@ -17,4 +17,4 @@
 # guacamole/guacamole:1.6.0-RC3
 # portainer/portainer-ce:2.39.1-alpine
 # uusec/openresty-manager:2.4.2
-bitnami/kafka:3.6.1
+bitnami/kafka:latest
