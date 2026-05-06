@@ -20,4 +20,5 @@
 # apache/kafka:3.9.2
 # provectuslabs/kafka-ui
 # golang:1.25.9-alpine
-alpine:3.22
+# alpine:3.22
+nexterm/aio:latest
