@@ -26,4 +26,5 @@
 # tdengine/tsdb:3.4.1.6
 # nousresearch/hermes-agent:latest
 # victoria-logs:v1.50.0
-grafana/alloy:latest
+# grafana/alloy:latest
+victoria-logs:v1.50.0
