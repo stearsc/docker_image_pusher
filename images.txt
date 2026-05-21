@@ -23,4 +23,5 @@
 # alpine:3.22
 # nexterm/aio:latest 错误
 # germannewsmaker/nexterm:1.2.0-BETA
-tdengine/tsdb:3.4.1.6
+# tdengine/tsdb:3.4.1.6
+nousresearch/hermes-agent:latest
