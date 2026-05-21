@@ -27,4 +27,6 @@
 # nousresearch/hermes-agent:latest
 # victoria-logs:v1.50.0
 # grafana/alloy:latest
-victoriametrics/victoria-logs:v1.50.0
+# victoriametrics/victoria-logs:v1.50.0
+grafana/loki:3.7.0
+
