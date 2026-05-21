@@ -24,4 +24,5 @@
 # nexterm/aio:latest 错误
 # germannewsmaker/nexterm:1.2.0-BETA
 # tdengine/tsdb:3.4.1.6
-nousresearch/hermes-agent:latest
+# nousresearch/hermes-agent:latest
+victoria-logs:v1.50.0
