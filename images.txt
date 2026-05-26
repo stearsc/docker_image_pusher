@@ -29,4 +29,5 @@
 # grafana/alloy:latest
 # victoriametrics/victoria-logs:v1.50.0
 # grafana/loki:3.7.0
-grafana/grafana:12.1.0
+# grafana/grafana:12.1.0
+ghcr.io/henrygd/beszel
