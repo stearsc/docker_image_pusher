@@ -31,4 +31,4 @@
 # grafana/loki:3.7.0
 # grafana/grafana:12.1.0
 # henrygd/beszel:latest
-henrygd/beszel-agent
+henrygd/beszel-agent:latest
