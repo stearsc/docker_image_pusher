@@ -34,4 +34,4 @@
 # henrygd/beszel-agent:latest
 # alpine:3.22
 # henrygd/beszel-agent:latest
-openjdk:21
+eclipse-temurin:21-jdk
