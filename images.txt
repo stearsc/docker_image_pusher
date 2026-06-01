@@ -34,4 +34,5 @@
 # henrygd/beszel-agent:latest
 # alpine:3.22
 # henrygd/beszel-agent:latest
-eclipse-temurin:21-jdk
+# eclipse-temurin:21-jdk
+eclipse-temurin:21-jre
