@@ -36,4 +36,4 @@
 # henrygd/beszel-agent:latest
 # eclipse-temurin:21-jdk
 # eclipse-temurin:21-jre
-owasp/zap2docker-stable
+zaproxy/zap-stable
