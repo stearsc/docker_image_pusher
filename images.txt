@@ -1,9 +1,13 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
+mysql:8
+# henrygd/beszel-agent:latest
+# eclipse-temurin:21-jdk
+# eclipse-temurin:21-jre
+# zaproxy/zap-stable
 # xhofe/alist:latest
 # dbeaver/cloudbeaver:25.1.4
 # emqx/emqx-enterprise:5.9.1-elixir
@@ -33,7 +37,3 @@
 # henrygd/beszel:latest
 # henrygd/beszel-agent:latest
 # alpine:3.22
-# henrygd/beszel-agent:latest
-# eclipse-temurin:21-jdk
-# eclipse-temurin:21-jre
-zaproxy/zap-stable
