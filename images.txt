@@ -3,8 +3,8 @@
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
-
-portainer/portainer-ce:2.39.3
+jackge12345/dbcheck:2.6.0
+# portainer/portainer-ce:2.39.3
 # eclipse-temurin:17-jre
 # mysql:8
 # henrygd/beszel-agent:latest
