@@ -2,8 +2,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-
-jackge12345/dbcheck:2.6.0
+golang:1.26.5-alpine
+# jackge12345/dbcheck:2.6.0
 # portainer/portainer-ce:2.39.3
 # eclipse-temurin:17-jre
 # mysql:8
